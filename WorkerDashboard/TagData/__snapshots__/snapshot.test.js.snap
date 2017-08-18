@@ -1,0 +1,475 @@
+exports[`TagData container snapshot renders the component 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <Card
+    height="fixedHeight"
+    marginRight={true}
+    sizeHoriz="small"
+    title="Tag Data"
+    type="default"
+    width="500">
+    <div
+        id="tag3D"
+        onClick={[Function]} />
+    <div
+        className="tagDataWrapper_1xqiuw2">
+        <DataIconRow
+            data-test="server-connection-status"
+            iconClass="fa fa-server 
+                       
+                      error_1k5dggg"
+            spanClass="error_1k5dggg"
+            textString="Server Disconnected" />
+        <DataIconRow
+            data-test="tag-connection-status"
+            iconClass="fa fa-link 
+                       
+                      error_1k5dggg"
+            spanClass="error_1k5dggg"
+            textString="Tag Disconnected" />
+        <DataIconRow
+            iconClass="fa fa-arrows 
+                        
+                      error_1k5dggg
+                      offline_wz1f40"
+            spanClass="
+                      error_1k5dggg
+                      offline_wz1f40"
+            textString="Inactive" />
+        <DataIconRow
+            iconClass="fa fa-arrow-up 
+                         
+                        offline_wz1f40"
+            spanClass="
+                      default_53ysj 
+                      offline_wz1f40"
+            textString="- ft" />
+        <DataIconRow
+            iconClass="fa fa-thermometer-three-quarters 
+                        
+                        offline_wz1f40"
+            spanClass="
+                      default_53ysj
+                      offline_wz1f40"
+            textString="- °F" />
+        <DataIconRow
+            iconClass="fa fa-tint 
+                        
+                        offline_wz1f40"
+            spanClass="
+                      default_53ysj
+                      offline_wz1f40"
+            textString="-%" />
+        <DataIconRow
+            iconClass="fa fa-battery-three-quarters 
+                        
+                        offline_wz1f40"
+            spanClass="
+                      default_53ysj
+                      offline_wz1f40"
+            textString="-%" />
+        <DataIconRow
+            addOnElements={
+                <svg
+                    height="10"
+                    width={100}
+                    xmlns="http://www.w3.org/2000/svg">
+                    <line
+                        stroke="grey"
+                        strokeWidth="1"
+                        x1="0"
+                        x2={100}
+                        y1="5"
+                        y2="5" />
+                    <rect
+                        fill="grey"
+                        height="10"
+                        width={48.87585532746823}
+                        x="0"
+                        y="0" />
+                </svg>
+            }
+            iconClass="fa fa-volume-up 
+                        
+                        offline_wz1f40"
+            positionClass="bottomDweller_10spfwm"
+            spanClass="
+                      default_53ysj
+                      offline_wz1f40"
+            textString="  500dB" />
+    </div>
+</Card>,
+  "nodes": Array [
+    <Card
+      height="fixedHeight"
+      marginRight={true}
+      sizeHoriz="small"
+      title="Tag Data"
+      type="default"
+      width="500">
+      <div
+            id="tag3D"
+            onClick={[Function]} />
+      <div
+            className="tagDataWrapper_1xqiuw2">
+            <DataIconRow
+                  data-test="server-connection-status"
+                  iconClass="fa fa-server 
+                           
+                          error_1k5dggg"
+                  spanClass="error_1k5dggg"
+                  textString="Server Disconnected" />
+            <DataIconRow
+                  data-test="tag-connection-status"
+                  iconClass="fa fa-link 
+                           
+                          error_1k5dggg"
+                  spanClass="error_1k5dggg"
+                  textString="Tag Disconnected" />
+            <DataIconRow
+                  iconClass="fa fa-arrows 
+                            
+                          error_1k5dggg
+                          offline_wz1f40"
+                  spanClass="
+                          error_1k5dggg
+                          offline_wz1f40"
+                  textString="Inactive" />
+            <DataIconRow
+                  iconClass="fa fa-arrow-up 
+                             
+                            offline_wz1f40"
+                  spanClass="
+                          default_53ysj 
+                          offline_wz1f40"
+                  textString="- ft" />
+            <DataIconRow
+                  iconClass="fa fa-thermometer-three-quarters 
+                            
+                            offline_wz1f40"
+                  spanClass="
+                          default_53ysj
+                          offline_wz1f40"
+                  textString="- °F" />
+            <DataIconRow
+                  iconClass="fa fa-tint 
+                            
+                            offline_wz1f40"
+                  spanClass="
+                          default_53ysj
+                          offline_wz1f40"
+                  textString="-%" />
+            <DataIconRow
+                  iconClass="fa fa-battery-three-quarters 
+                            
+                            offline_wz1f40"
+                  spanClass="
+                          default_53ysj
+                          offline_wz1f40"
+                  textString="-%" />
+            <DataIconRow
+                  addOnElements={
+                        <svg
+                              height="10"
+                              width={100}
+                              xmlns="http://www.w3.org/2000/svg">
+                              <line
+                                    stroke="grey"
+                                    strokeWidth="1"
+                                    x1="0"
+                                    x2={100}
+                                    y1="5"
+                                    y2="5" />
+                              <rect
+                                    fill="grey"
+                                    height="10"
+                                    width={48.87585532746823}
+                                    x="0"
+                                    y="0" />
+                        </svg>
+                  }
+                  iconClass="fa fa-volume-up 
+                            
+                            offline_wz1f40"
+                  positionClass="bottomDweller_10spfwm"
+                  spanClass="
+                          default_53ysj
+                          offline_wz1f40"
+                  textString="  500dB" />
+      </div>
+</Card>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance":  {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <TagData />,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": TagData {
+        "IBMAppClient": null,
+        "_reactInternalInstance": [Circular],
+        "activeThreshold": 10000,
+        "context": Object {},
+        "handleBrokerDisconnect": [Function],
+        "heartbeatInterval": null,
+        "heartbeatTimer": 1000,
+        "micLevelWidth": 100,
+        "props": Object {},
+        "refs": Object {},
+        "state": Object {
+          "active": false,
+          "altitude": "-",
+          "battery": "-",
+          "currOrientation": Object {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+          },
+          "humidity": "-",
+          "lastHeard": 0,
+          "micLevel": "500",
+          "objLoaded": false,
+          "serverConnected": false,
+          "tagConnected": false,
+          "tagId": null,
+          "temperature": "-",
+        },
+        "tag3Did": "tag3D",
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <Card
+          height="fixedHeight"
+          marginRight={true}
+          sizeHoriz="small"
+          title="Tag Data"
+          type="default"
+          width="500">
+          <div
+                    id="tag3D"
+                    onClick={[Function]} />
+          <div
+                    className="tagDataWrapper_1xqiuw2">
+                    <DataIconRow
+                              data-test="server-connection-status"
+                              iconClass="fa fa-server 
+                                   
+                                  error_1k5dggg"
+                              spanClass="error_1k5dggg"
+                              textString="Server Disconnected" />
+                    <DataIconRow
+                              data-test="tag-connection-status"
+                              iconClass="fa fa-link 
+                                   
+                                  error_1k5dggg"
+                              spanClass="error_1k5dggg"
+                              textString="Tag Disconnected" />
+                    <DataIconRow
+                              iconClass="fa fa-arrows 
+                                    
+                                  error_1k5dggg
+                                  offline_wz1f40"
+                              spanClass="
+                                  error_1k5dggg
+                                  offline_wz1f40"
+                              textString="Inactive" />
+                    <DataIconRow
+                              iconClass="fa fa-arrow-up 
+                                     
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj 
+                                  offline_wz1f40"
+                              textString="- ft" />
+                    <DataIconRow
+                              iconClass="fa fa-thermometer-three-quarters 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="- °F" />
+                    <DataIconRow
+                              iconClass="fa fa-tint 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="-%" />
+                    <DataIconRow
+                              iconClass="fa fa-battery-three-quarters 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="-%" />
+                    <DataIconRow
+                              addOnElements={
+                                        <svg
+                                                  height="10"
+                                                  width={100}
+                                                  xmlns="http://www.w3.org/2000/svg">
+                                                  <line
+                                                            stroke="grey"
+                                                            strokeWidth="1"
+                                                            x1="0"
+                                                            x2={100}
+                                                            y1="5"
+                                                            y2="5" />
+                                                  <rect
+                                                            fill="grey"
+                                                            height="10"
+                                                            width={48.87585532746823}
+                                                            x="0"
+                                                            y="0" />
+                                        </svg>
+                              }
+                              iconClass="fa fa-volume-up 
+                                    
+                                    offline_wz1f40"
+                              positionClass="bottomDweller_10spfwm"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="  500dB" />
+          </div>
+</Card>,
+        "_debugID": 2,
+        "_renderedOutput": <Card
+          height="fixedHeight"
+          marginRight={true}
+          sizeHoriz="small"
+          title="Tag Data"
+          type="default"
+          width="500">
+          <div
+                    id="tag3D"
+                    onClick={[Function]} />
+          <div
+                    className="tagDataWrapper_1xqiuw2">
+                    <DataIconRow
+                              data-test="server-connection-status"
+                              iconClass="fa fa-server 
+                                   
+                                  error_1k5dggg"
+                              spanClass="error_1k5dggg"
+                              textString="Server Disconnected" />
+                    <DataIconRow
+                              data-test="tag-connection-status"
+                              iconClass="fa fa-link 
+                                   
+                                  error_1k5dggg"
+                              spanClass="error_1k5dggg"
+                              textString="Tag Disconnected" />
+                    <DataIconRow
+                              iconClass="fa fa-arrows 
+                                    
+                                  error_1k5dggg
+                                  offline_wz1f40"
+                              spanClass="
+                                  error_1k5dggg
+                                  offline_wz1f40"
+                              textString="Inactive" />
+                    <DataIconRow
+                              iconClass="fa fa-arrow-up 
+                                     
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj 
+                                  offline_wz1f40"
+                              textString="- ft" />
+                    <DataIconRow
+                              iconClass="fa fa-thermometer-three-quarters 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="- °F" />
+                    <DataIconRow
+                              iconClass="fa fa-tint 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="-%" />
+                    <DataIconRow
+                              iconClass="fa fa-battery-three-quarters 
+                                    
+                                    offline_wz1f40"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="-%" />
+                    <DataIconRow
+                              addOnElements={
+                                        <svg
+                                                  height="10"
+                                                  width={100}
+                                                  xmlns="http://www.w3.org/2000/svg">
+                                                  <line
+                                                            stroke="grey"
+                                                            strokeWidth="1"
+                                                            x1="0"
+                                                            x2={100}
+                                                            y1="5"
+                                                            y2="5" />
+                                                  <rect
+                                                            fill="grey"
+                                                            height="10"
+                                                            width={48.87585532746823}
+                                                            x="0"
+                                                            y="0" />
+                                        </svg>
+                              }
+                              iconClass="fa fa-volume-up 
+                                    
+                                    offline_wz1f40"
+                              positionClass="bottomDweller_10spfwm"
+                              spanClass="
+                                  default_53ysj
+                                  offline_wz1f40"
+                              textString="  500dB" />
+          </div>
+</Card>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <TagData />,
+}
+`;
